@@ -1,8 +1,8 @@
 # PythonForMillions
-My own solution and AC code for coding problems on LeetCode and Codeforces, written by Python 3
+My own solution and AC code for coding problems on LeetCode and Codeforces, written by Python 3. Gain a better coding skill, to earn millions of dollars!!!
 
 ### Problems according to algoritm
-The number of problems last updated on Aug. 10th, 2022
+The number of problems last updated on Aug. 11th, 2022
 
 - [Dynamic Programming (DP)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Dynamic%20Programming%20(DP).md): 4 problem currently
 -  [Stack & Queue](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Stack%20%26%20Queue.md): 1 problem currently
