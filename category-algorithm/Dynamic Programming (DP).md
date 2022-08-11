@@ -14,6 +14,7 @@
 | Problem                                                      | Solution                                                     | Remark |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [1716D-Chip Move](https://codeforces.com/problemset/problem/1716/D) | [1716D-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1716/1716D-dp.py) |        |
+| [P1006 传纸条](https://www.luogu.com.cn/problem/P1006) | [P1006-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1006-dp.py)  |  |
 
 
 
