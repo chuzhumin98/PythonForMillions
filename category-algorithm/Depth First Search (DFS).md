@@ -12,7 +12,8 @@
 
 | Problem                                                      | Solution                                                     | Remark |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-|   |  |        |
+| [P1236 算24点](https://www.luogu.com.cn/problem/P1236) | [P1236-dfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1236-dfs.py) | |
+| [P1329 数列](https://www.luogu.com.cn/problem/P1329) | [P1329-dp+dfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1329-dp%2Bdfs.py) | |
 
 
 

@@ -16,6 +16,7 @@
 | [1716D-Chip Move](https://codeforces.com/problemset/problem/1716/D) | [1716D-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1716/1716D-dp.py) |        |
 | [P1006 传纸条](https://www.luogu.com.cn/problem/P1006) | [P1006-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1006-dp.py)  |  |
 | [P1052 过河](https://www.luogu.com.cn/problem/P1052) | [P1052-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1052-dp.py) |  |
+| [P1329 数列](https://www.luogu.com.cn/problem/P1329) | [P1329-dp+dfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1329-dp%2Bdfs.py) | |
 
 
 
