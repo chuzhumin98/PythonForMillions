@@ -8,7 +8,7 @@ Algorithm:
 - [Dynamic Programming (DP)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Dynamic%20Programming%20(DP).md): 9 problem currently
 -  [Depth First Search (DFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Depth%20First%20Search%20(DFS).md): 4 problem currently
 -  [Broad First Search (BFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Broad%20First%20Search%20(BFS).md): 1 problem currently
--  [Graph](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Graph.md): 1 problem currently
+-  [Graph](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Graph.md): 2 problem currently
 -  [Binary Search](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Binary%20Search.md): 1 problem currently
 
 Data Structure:
