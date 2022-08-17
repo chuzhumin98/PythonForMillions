@@ -1,5 +1,5 @@
 # PythonForMillions
-My own solution and AC code for coding problems on LeetCode and Codeforces, written by Python 3. Gain a better coding skill, to earn millions of dollars!!!
+My own solutions and AC codes for coding problems on LeetCode, Codeforces and Luogu, written by Python 3. Gain a better coding skill, to earn millions of dollars!!!
 
 ### Problems according to algoritm
 The number of problems last updated on Aug. 17th, 2022
