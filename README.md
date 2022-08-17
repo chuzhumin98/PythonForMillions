@@ -12,6 +12,6 @@ Algorithm:
 -  [Binary Search](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Binary%20Search.md): 3 problem currently
 
 Data Structure:
--  [Stack & Queue](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Stack%20%26%20Queue.md): 2 problem currently
+-  [Stack & Queue](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Stack%20%26%20Queue.md): 3 problem currently
 -  [Disjoint Set Union (DSU)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Disjoint%20Set%20Union%20(DSU).md): 1 problem currently
 -  [ST Table](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/ST%20Table.md): 1 problem currently
