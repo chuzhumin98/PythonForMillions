@@ -12,7 +12,7 @@
 
 | Problem                                                      | Solution                                                     | Remark |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-|   |  |        |
+| [P1198 最大数](https://www.luogu.com.cn/problem/P1198)  | [P1198-stack+binarysearch.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1198-stack%2Bbinarysearch.cpp) |        |
 
 
 
