@@ -20,4 +20,4 @@
 
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
-|   |  |        |
+| [P1083 借教室](https://www.luogu.com.cn/problem/P1083)  | [P1083-binarysearch.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1083-binarysearch.cpp) |        |
