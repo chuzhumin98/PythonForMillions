@@ -19,6 +19,7 @@
 | [P1006 传纸条](https://www.luogu.com.cn/problem/P1006) | [P1006-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1006-dp.py)  |  |
 | [P1052 过河](https://www.luogu.com.cn/problem/P1052) | [P1052-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1052-dp.py) |  |
 | [P1329 数列](https://www.luogu.com.cn/problem/P1329) | [P1329-dp+dfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1329-dp%2Bdfs.py) | |
+| [P1281 书的复制](https://www.luogu.com.cn/problem/P1281) | [P1281-dp.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1281-dp.cpp) | Range DP |
 
 
 
