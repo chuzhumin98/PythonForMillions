@@ -1,8 +1,8 @@
 ###
 # Solution:
-# to hold the property of non-decreasing order, you can only un-mask the array from the right to left.
-# thus, we can first mask all the number to 0, then from right to left, one by one unmask the array,
-# once the property non-decreasing is broken, then end the process, output the max unmask number (together with the min operation number)
+# if we leave m ( and n ), then place them as ( ( ( ( ) ) ) is certainly one valid way (as the problem exist at least one way).
+# then for other condition, the easiest satisfied way is ( ( ( ) ( ) ), as the prefix number of ( minus the prefix number of ) is second-larger with this way.
+# so we just need to check if this way can be satisfied, to get the uniqueness
 ###
 
 t = int(input())

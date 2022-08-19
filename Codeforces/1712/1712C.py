@@ -1,7 +1,7 @@
-###
 # Solution:
-# consider from the completely zero condition, and relax value to non-zero from tail to head,
-# until the array unsatisfy the non-decreasing constraints
+# to hold the property of non-decreasing order, you can only un-mask the array from the right to left.
+# thus, we can first mask all the number to 0, then from right to left, one by one unmask the array,
+# once the property non-decreasing is broken, then end the process, output the max unmask number (together with the min operation number)
 ###
 t = int(input())
 for _ in range(t):
