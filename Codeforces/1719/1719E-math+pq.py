@@ -1,5 +1,5 @@
 ###
-# Solution: math
+# Solution: math + priority queue
 # supplement for tutorial: why "It can be proved that if 𝑐𝑥>𝐹𝑖+1, then it is impossible to represent 𝑐𝑥, as it cannot be represented as the sum of Fibonacci numbers up to 𝐹𝑖 among which there are no neighbors"?
 # note that if cx > Fi+1, then the optimal strategy to take cx is Fi + Fi-2 + Fi-4 + ... + F0/1,
 # but Fi+1 - (Fi + Fi-2 + Fi-4 + ... + F0/1) = Fi-1 - (Fi-2 + Fi-4 + ... + F0/1) = Fi-3 - (Fi-4 + ... + F0/1) = F1 - F0 or F0 >= 0, so cx > Fi+1 >= Fi + Fi-2 + Fi-4 + ... + F0/1
