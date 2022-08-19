@@ -8,6 +8,7 @@
 | [P1018 乘积最大](https://www.luogu.com.cn/problem/P1018) | [P1018-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1018-dp.py) | |
 | [P1489 猫狗大战](https://www.luogu.com.cn/problem/P1489) | [P1489-dp.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1489-dp.cpp) | 0-1 bag |
 | [2370. 最长理想子序列](https://leetcode.cn/problems/longest-ideal-subsequence/) | [2370-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2370-dp.py) | |
+| [P1279 字串距离](https://www.luogu.com.cn/problem/P1279) | [P1279-dp.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1279-dp.cpp) | |
 
 
 
