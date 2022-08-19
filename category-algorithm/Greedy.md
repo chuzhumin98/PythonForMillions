@@ -22,4 +22,4 @@
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
 | [1719D2. Burenka and Traditions (hard version)](https://codeforces.com/contest/1719/problem/D2)  | [1719D-prefixsum%2Bgreedy.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1719/1719D-prefixsum%2Bgreedy.cpp)  |        |
-| [P1073 最优贸易](https://www.luogu.com.cn/problem/P1073) | [P1073-graph%2Bdfs%2Bgreedy.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1073-graph%2Bdfs%2Bgreedy.cpp) | |
+| [P1073 最优贸易](https://www.luogu.com.cn/problem/P1073) | [P1073-graph+dfs+greedy.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1073-graph%2Bdfs%2Bgreedy.cpp) | |
