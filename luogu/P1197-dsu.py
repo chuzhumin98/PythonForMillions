@@ -1,3 +1,11 @@
+###
+# Solution: dsu, but TLE with python code
+# just consider the process from end to start
+# in the end, this destroy node is isolated, and do not calculate in the connection blocks
+# then the relations connect between them and other nodes.
+# we can use DSU (disjoint set union) to hold for the current connection blocks number
+###
+
 def get_parent(nodes, node):
     if nodes[node] == node:
         return node

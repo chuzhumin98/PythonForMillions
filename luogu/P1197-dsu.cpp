@@ -1,3 +1,7 @@
+/*
+solution can be found in P1197.py
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
