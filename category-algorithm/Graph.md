@@ -13,6 +13,7 @@
 | Problem                                                      | Solution                                                     | Remark |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [2360. 图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/)  | [2360-graph.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2360-graph.py)  |        |
+| [P1347 排序](https://www.luogu.com.cn/problem/P1347) | [P1347-graph.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1347-graph.py) | Topo Sort |
 
 
 
