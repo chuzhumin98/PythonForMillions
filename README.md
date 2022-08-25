@@ -7,7 +7,7 @@ The number of problems last updated on Aug. 25th, 2022
 Algorithm:
 - [Dynamic Programming (DP)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Dynamic%20Programming%20(DP).md): 13 problems currently
 -  [Depth First Search (DFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Depth%20First%20Search%20(DFS).md): 5 problems currently
--  [Broad First Search (BFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Broad%20First%20Search%20(BFS).md): 2 problems currently
+-  [Broad First Search (BFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Broad%20First%20Search%20(BFS).md): 3 problems currently
 -  [Binary Search](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Binary%20Search.md): 4 problems currently
 -  [Greedy](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Greedy.md): 5 problems currently
 
