@@ -5,6 +5,7 @@
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
 | [1714G-Path Prefixes](https://codeforces.com/problemset/problem/1714/G) | [1714G-dfs+binarysearch.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1714/1714G-dfs+binarysearch.py) |        |
+| [P1314 聪明的质监员](https://www.luogu.com.cn/problem/P1314) | [P1314-binarysearch+prefixsum.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1314-binarysearch%2Bprefixsum.cpp) | |
 
 
 
