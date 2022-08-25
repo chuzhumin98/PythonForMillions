@@ -12,7 +12,7 @@
 
 | Problem                                                      | Solution                                                     | Remark |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-|   |  |        |
+| [P1311 选择客栈](https://www.luogu.com.cn/problem/P1311)  | [P1311-STtable.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1311-STtable.cpp) |        |
 
 
 
