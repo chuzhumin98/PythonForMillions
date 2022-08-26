@@ -14,6 +14,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [P1276 校门外的树（增强版）](https://www.luogu.com.cn/problem/P1276)  | [P1276-segmenttree.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1276-segmenttree.cpp)  |        |
 | [P1253 扶苏的问题](https://www.luogu.com.cn/problem/P1253) | [P1253-segmenttree.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1253-segmenttree.cpp) |  |
+| [327. 区间和的个数](https://leetcode.cn/problems/count-of-range-sum/) | [327-segmenttree.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/327-segmenttree.cpp) |  |
 
 
 
