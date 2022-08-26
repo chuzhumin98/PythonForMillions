@@ -12,7 +12,7 @@
 
 | Problem                                                      | Solution                                                     | Remark |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-|   |  |        |
+| [P1276 校门外的树（增强版）](https://www.luogu.com.cn/problem/P1276)  | [P1276-segmenttree.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1276-segmenttree.cpp)  |        |
 
 
 
