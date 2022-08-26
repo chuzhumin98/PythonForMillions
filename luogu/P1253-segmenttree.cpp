@@ -1,3 +1,7 @@
+/*
+Solution: Segment Tree
+A template problem for segment tree, we need to lazy update for two kinds of tags, when we push down the lazy tag, we need to deal with the pred two tags of children nodes.
+*/
 #include<stdio.h>
 #include<algorithm>
 #include<iostream>
