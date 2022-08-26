@@ -22,3 +22,4 @@
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
 | [1719F. Tonya and Burenka-179](https://codeforces.com/contest/1719/problem/F)  | [1719F-segmenttree.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1719/1719F-segmenttree.cpp) |        |
+| [2213. 由单个字符重复的最长子字符串](https://leetcode.cn/problems/longest-substring-of-one-repeating-character/) | [2213-segmenttree.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2213-segmenttree.cpp) |  |

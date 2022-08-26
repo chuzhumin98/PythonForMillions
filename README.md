@@ -18,4 +18,4 @@ Data Structure:
 -  [ST Table](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/ST%20Table.md): 2 problems currently
 -  [Graph](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Graph.md): 5 problems currently
 -  [Tree-Like Array](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Tree-Like%20Array.md): 1 problem currently
--  [Segment Tree](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Segment%20Tree.md): 3 problems currently
+-  [Segment Tree](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Segment%20Tree.md): 4 problems currently
