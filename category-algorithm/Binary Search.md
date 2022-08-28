@@ -22,3 +22,4 @@
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
 | [P1083 借教室](https://www.luogu.com.cn/problem/P1083)  | [P1083-binarysearch.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1083-binarysearch.cpp) |        |
+| [2035. 将数组分成两个数组并最小化数组和的差](https://leetcode.cn/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [2035-binarysearch.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2035-binarysearch.cpp) |  |
