@@ -5,6 +5,7 @@
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
 | [1711B-Party](https://codeforces.com/problemset/problem/1711/B) | [1711B-graph.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1711/1711B-graph.py) |        |
+| [6163 给定条件下构造矩阵](https://leetcode.cn/problems/build-a-matrix-with-conditions/) | [6163-graph.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/6163-graph.py) | Toposort |
 
 
 
