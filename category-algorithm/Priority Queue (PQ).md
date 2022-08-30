@@ -21,4 +21,4 @@
 
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
-|   |  |        |
+| [1851. 包含每个查询的最小区间](https://leetcode.cn/problems/minimum-interval-to-include-each-query/) | [1851-pq.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1851-pq.py) |  |
