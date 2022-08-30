@@ -1,6 +1,10 @@
 # PythonForMillions
 My own solutions and AC codes for coding problems on LeetCode, Codeforces and Luogu, written by Python 3. Gain a better coding skill, to earn millions of dollars!!!
 
+-  My Codeforces profile: [https://codeforces.com/profile/chuzhumin98](https://codeforces.com/profile/chuzhumin98)
+-  My LeetCode profile: [https://leetcode.cn/u/affine/](https://leetcode.cn/u/affine/)
+-  My Luogu profile: [https://www.luogu.com.cn/user/224692#practice](https://www.luogu.com.cn/user/224692#practice)
+
 ### Problems according to algoritm
 The number of problems last updated on Aug. 31st, 2022
 
