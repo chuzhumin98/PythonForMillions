@@ -22,3 +22,4 @@
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
 | [1851. 包含每个查询的最小区间](https://leetcode.cn/problems/minimum-interval-to-include-each-query/) | [1851-pq.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1851-pq.py) |  |
+| [2163. 删除元素后和的最小差值](https://leetcode.cn/problems/minimum-difference-in-sums-after-removal-of-elements/) | [2163-hq.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2163-hq.py) |  |
