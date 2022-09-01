@@ -26,7 +26,7 @@
 | [P1281 书的复制](https://www.luogu.com.cn/problem/P1281) | [P1281-dp.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1281-dp.cpp) | Range DP |
 | [2312. 卖木头块](https://leetcode.cn/problems/selling-pieces-of-wood/) | [2312-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2312-dp.py) |  |
 | [2019. 解出数学表达式的学生分数](https://leetcode.cn/problems/the-score-of-students-solving-math-expression/) | [2019-stack+dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2019-stack%2Bdp.py) | range dp |
-
+| [687. 最长同值路径](https://leetcode.cn/problems/longest-univalue-path/) | [687-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/687-dp.py) | Tree DP |
 
 
 ### Hard
