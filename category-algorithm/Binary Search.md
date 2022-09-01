@@ -24,3 +24,4 @@
 | ------- | -------- | ------ |
 | [P1083 借教室](https://www.luogu.com.cn/problem/P1083)  | [P1083-binarysearch.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1083-binarysearch.cpp) |        |
 | [2035. 将数组分成两个数组并最小化数组和的差](https://leetcode.cn/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [2035-binarysearch.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2035-binarysearch.cpp) |  |
+| [2286. 以组为单位订音乐会的门票](https://leetcode.cn/problems/booking-concert-tickets-in-groups/) | [2286-segmenttree+binarysearch.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2286-segmenttree%2Bbinarysearch.cpp) |  |
