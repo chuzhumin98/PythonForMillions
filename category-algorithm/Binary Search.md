@@ -14,6 +14,7 @@
 | Problem                                                      | Solution                                                     | Remark |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [P1198 最大数](https://www.luogu.com.cn/problem/P1198)  | [P1198-stack+binarysearch.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1198-stack%2Bbinarysearch.cpp) |        |
+| [2258. 逃离火灾](https://leetcode.cn/problems/escape-the-spreading-fire/) | [2258-bfs+binarysearch.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2258-bfs%2Bbinarysearch.py) |  |
 
 
 
