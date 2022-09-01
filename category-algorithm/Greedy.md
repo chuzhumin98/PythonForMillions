@@ -14,6 +14,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [68. 文本左右对齐](https://leetcode.cn/problems/text-justification/)  | [68-greedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/68-greedy.py) |        |
 | [E. Fibonacci Strings](https://codeforces.com/contest/1719/problem/E) | [1719E-math%2Bpq%2Bgreedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1719/1719E-math%2Bpq%2Bgreedy.py) | |
+| [782. 变为棋盘](https://leetcode.cn/problems/transform-to-chessboard/) | [782-greedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/782-greedy.py) |  |
 
 
 
