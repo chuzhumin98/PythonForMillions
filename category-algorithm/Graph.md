@@ -25,3 +25,4 @@
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
 | [P1073 最优贸易](https://www.luogu.com.cn/problem/P1073) | [P1073-graph+dfs+greedy.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1073-graph%2Bdfs%2Bgreedy.cpp) | |
+| [LCP 35. 电动车游城市](https://leetcode.cn/problems/DFPeFJ/) | [LCP35-graph.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/LCP35-graph.py) |  |

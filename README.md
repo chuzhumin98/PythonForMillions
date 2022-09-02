@@ -20,7 +20,7 @@ Data Structure:
 -  [Priority Queue (PQ)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Priority%20Queue%20(PQ).md): 4 problems currently
 -  [Disjoint Set Union (DSU)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Disjoint%20Set%20Union%20(DSU).md): 5 problems currently
 -  [ST Table](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/ST%20Table.md): 2 problems currently
--  [Graph](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Graph.md): 7 problems currently
+-  [Graph](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Graph.md): 8 problems currently
 -  [Tree-Like Array](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Tree-Like%20Array.md): 1 problem currently
 -  [Segment Tree](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Segment%20Tree.md): 6 problems currently
 -  [Trie](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Trie.md): 1 problem currently
