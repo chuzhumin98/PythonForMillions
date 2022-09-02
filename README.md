@@ -17,7 +17,7 @@ Algorithm:
 
 Data Structure:
 -  [Stack & Queue](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Stack%20%26%20Queue.md): 5 problems currently
--  [Priority Queue (PQ)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Priority%20Queue%20(PQ).md): 4 problems currently
+-  [Priority Queue (PQ)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Priority%20Queue%20(PQ).md): 5 problems currently
 -  [Disjoint Set Union (DSU)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Disjoint%20Set%20Union%20(DSU).md): 5 problems currently
 -  [ST Table](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/ST%20Table.md): 2 problems currently
 -  [Graph](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Graph.md): 8 problems currently

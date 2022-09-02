@@ -4,7 +4,7 @@
 
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
-|   |  |        |
+| [313. 超级丑数](https://leetcode.cn/problems/super-ugly-number/) | [313-pq.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/313-pq.py) |  |
 
 
 
@@ -14,6 +14,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [P1168 中位数](https://www.luogu.com.cn/problem/P1168) | [P1168-pq.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1168-pq.cpp) |        |
 | [E. Fibonacci Strings](https://codeforces.com/contest/1719/problem/E) | [1719E-math+pq+greedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1719/1719E-math%2Bpq%2Bgreedy.py) | |
+
 
 
 
