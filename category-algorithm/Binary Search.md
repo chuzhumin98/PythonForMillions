@@ -7,6 +7,7 @@
 | [1714G-Path Prefixes](https://codeforces.com/problemset/problem/1714/G) | [1714G-dfs+binarysearch.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1714/1714G-dfs+binarysearch.py) |        |
 | [P1314 聪明的质监员](https://www.luogu.com.cn/problem/P1314) | [P1314-binarysearch+prefixsum.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1314-binarysearch%2Bprefixsum.cpp) | |
 | [6143. 预算内的最多机器人数目](https://leetcode.cn/problems/maximum-number-of-robots-within-budget/) | [6143-pq+binarysearch.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/6143-pq%2Bbinarysearch.py) |  |
+| [1283. 使结果不超过阈值的最小除数](https://leetcode.cn/problems/find-the-smallest-divisor-given-a-threshold/) | [1283-binarysearch.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1283-binarysearch.py) |  |
 
 
 
