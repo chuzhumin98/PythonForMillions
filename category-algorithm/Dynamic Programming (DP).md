@@ -15,6 +15,7 @@
 | [322. 零钱兑换](https://leetcode.cn/problems/coin-change/) | [322-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/322-dp.py) |  |
 | [1774. 最接近目标价格的甜点成本](https://leetcode.cn/problems/closest-dessert-cost/) | [1774-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1774-dp.py) | Multi-Bag |
 | [6173. 被列覆盖的最多行数](https://leetcode.cn/problems/maximum-rows-covered-by-columns/) | [6173-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/6173-dp.py) | State Compression |
+| [abc267D - Index × A(Not Continuous ver.)](https://atcoder.jp/contests/abc267/tasks/abc267_d) | [abc267D-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/AtCoder/abc267/abc267D-dp.py) |  |
 
 
 ### Medium
@@ -37,3 +38,4 @@
 | Problem | Solution | Remark |
 | ------- | -------- | ------ |
 | [1714D-Color with Occurrences](https://codeforces.com/problemset/problem/1714/D) | [1714D-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1714/1714D-dp.py) |        |
+| [abc267G - Increasing K Times](https://atcoder.jp/contests/abc267/tasks/abc267_g) | [abc267G-dp.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/AtCoder/abc267/abc267G-dp.cpp) |  |

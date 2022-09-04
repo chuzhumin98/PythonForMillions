@@ -1,5 +1,5 @@
 # PythonForMillions
-My own solutions and AC codes for coding problems on LeetCode, Codeforces and Luogu, written by Python 3. Gain a better coding skill, to earn millions of dollars!!!
+My own solutions and AC codes for coding problems on LeetCode, Codeforces, Luogu and AtCoder, written by Python 3. Gain a better coding skill, to earn millions of dollars!!!
 
 -  My Codeforces profile: [https://codeforces.com/profile/chuzhumin98](https://codeforces.com/profile/chuzhumin98)
 -  My LeetCode profile: [https://leetcode.cn/u/affine/](https://leetcode.cn/u/affine/)
@@ -9,15 +9,15 @@ My own solutions and AC codes for coding problems on LeetCode, Codeforces and Lu
 The number of problems last updated on Sept. 4th, 2022
 
 Algorithm:
-- [Dynamic Programming (DP)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Dynamic%20Programming%20(DP).md): 21 problems currently
+- [Dynamic Programming (DP)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Dynamic%20Programming%20(DP).md): 23 problems currently
 -  [Depth First Search (DFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Depth%20First%20Search%20(DFS).md): 5 problems currently
 -  [Broad First Search (BFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Broad%20First%20Search%20(BFS).md): 7 problems currently
 -  [Binary Search](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Binary%20Search.md): 8 problems currently
--  [Greedy](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Greedy.md): 6 problems currently
+-  [Greedy](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Greedy.md): 7 problems currently
 
 Data Structure:
 -  [Stack & Queue](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Stack%20%26%20Queue.md): 5 problems currently
--  [Priority Queue (PQ)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Priority%20Queue%20(PQ).md): 6 problems currently
+-  [Priority Queue (PQ)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Priority%20Queue%20(PQ).md): 7 problems currently
 -  [Disjoint Set Union (DSU)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Disjoint%20Set%20Union%20(DSU).md): 5 problems currently
 -  [ST Table](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/ST%20Table.md): 2 problems currently
 -  [Graph](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Graph.md): 8 problems currently
