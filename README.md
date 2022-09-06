@@ -6,7 +6,7 @@ My own solutions and AC codes for coding problems on LeetCode, Codeforces, Luogu
 -  My Luogu profile: [https://www.luogu.com.cn/user/224692#practice](https://www.luogu.com.cn/user/224692#practice)
 
 ### Problems according to algoritm
-The number of problems last updated on Sept. 4th, 2022
+The number of problems last updated on Sept. 6th, 2022
 
 Algorithm:
 - [Dynamic Programming (DP)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Dynamic%20Programming%20(DP).md): 23 problems currently
@@ -16,7 +16,7 @@ Algorithm:
 -  [Greedy](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Greedy.md): 7 problems currently
 
 Data Structure:
--  [Stack & Queue](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Stack%20%26%20Queue.md): 5 problems currently
+-  [Stack & Queue](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Stack%20%26%20Queue.md): 6 problems currently
 -  [Priority Queue (PQ)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Priority%20Queue%20(PQ).md): 7 problems currently
 -  [Disjoint Set Union (DSU)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Disjoint%20Set%20Union%20(DSU).md): 5 problems currently
 -  [ST Table](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/ST%20Table.md): 2 problems currently
