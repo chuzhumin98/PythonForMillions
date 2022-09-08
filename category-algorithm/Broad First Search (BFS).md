@@ -8,6 +8,7 @@
 | [P1301 魔鬼之城](https://www.luogu.com.cn/problem/P1301) | [P1301-bfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/luogu/P1301-bfs.py) | |
 | [1905. 统计子岛屿](https://leetcode.cn/problems/count-sub-islands/) | [1905-bfs.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1905-bfs.cpp) |  |
 | [1722F. L-shapes](https://codeforces.com/problemset/problem/1722/F) | [1722F-bfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1722/1722F-bfs.py) |  |
+| [994. 腐烂的橘子](https://leetcode.cn/problems/rotting-oranges/) | [994-bfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/994-bfs.py) |  |
 
 
 ### Medium
