@@ -23,4 +23,4 @@ Data Structure:
 -  [Graph](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Graph.md): 8 problems currently
 -  [Tree-Like Array](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Tree-Like%20Array.md): 2 problems currently
 -  [Segment Tree](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Segment%20Tree.md): 6 problems currently
--  [Trie](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Trie.md): 1 problem currently
+-  [Trie](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Trie.md): 2 problems currently
