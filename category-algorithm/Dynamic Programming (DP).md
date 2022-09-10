@@ -31,6 +31,7 @@
 | [2019. 解出数学表达式的学生分数](https://leetcode.cn/problems/the-score-of-students-solving-math-expression/) | [2019-stack+dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2019-stack%2Bdp.py) | range dp |
 | [687. 最长同值路径](https://leetcode.cn/problems/longest-univalue-path/) | [687-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/687-dp.py) | Tree DP |
 | [1575. 统计所有可行路径](https://leetcode.cn/problems/count-all-possible-routes/) | [1575-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1575-dp.py) |  |
+| [300. 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | [300-greedy+dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/300-greedy%2Bdp.py) | O(N * log N) |
 
 
 ### Hard

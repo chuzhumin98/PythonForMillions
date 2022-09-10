@@ -17,6 +17,7 @@
 | [1719E. Fibonacci Strings](https://codeforces.com/contest/1719/problem/E) | [1719E-math%2Bpq%2Bgreedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1719/1719E-math%2Bpq%2Bgreedy.py) | |
 | [782. 变为棋盘](https://leetcode.cn/problems/transform-to-chessboard/) | [782-greedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/782-greedy.py) |  |
 | [abc267E - Erasing Vertices 2](https://atcoder.jp/contests/abc267/tasks/abc267_e) | [abc267E-greedy+pq.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/AtCoder/abc267/abc267E-greedy%2Bpq.py) |  |
+| [300. 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | [300-greedy+dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/300-greedy%2Bdp.py) | O(N * log N) |
 
 
 
