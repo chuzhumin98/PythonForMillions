@@ -6,6 +6,7 @@
 | ------- | -------- | ------ |
 | [313. 超级丑数](https://leetcode.cn/problems/super-ugly-number/) | [313-pq.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/313-pq.py) |  |
 | [6143. 预算内的最多机器人数目](https://leetcode.cn/problems/maximum-number-of-robots-within-budget/) | [6143-pq+binarysearch.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/6143-pq%2Bbinarysearch.py) |  |
+| [arc147A - Max Mod Min](https://atcoder.jp/contests/arc147/tasks/arc147_a) | [arc147A-pq.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/AtCoder/arc147/arc147A-pq.cpp) |  |
 
 
 
