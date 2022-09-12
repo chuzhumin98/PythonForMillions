@@ -9,7 +9,7 @@ My own solutions and AC codes for coding problems on LeetCode, Codeforces, Luogu
 The number of problems last updated on Sept. 12th, 2022
 
 Algorithm:
-- [Dynamic Programming (DP)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Dynamic%20Programming%20(DP).md): 27 problems currently
+- [Dynamic Programming (DP)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Dynamic%20Programming%20(DP).md): 28 problems currently
 -  [Depth First Search (DFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Depth%20First%20Search%20(DFS).md): 5 problems currently
 -  [Broad First Search (BFS)](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Broad%20First%20Search%20(BFS).md): 8 problems currently
 -  [Binary Search](https://github.com/chuzhumin98/PythonForMillions/blob/main/category-algorithm/Binary%20Search.md): 9 problems currently
