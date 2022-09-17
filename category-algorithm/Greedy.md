@@ -6,6 +6,7 @@
 | ------- | -------- | ------ |
 | [1709C. Recover an RBS](https://codeforces.com/contest/1709/problem/C)  | [1709C-greedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1709/1709C-greedy.py) |        |
 | [135. 分发糖果](https://leetcode.cn/problems/candy/) | [135-greedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/135-greedy.py) |  |
+| [C. Min-Max Array Transformation](https://codeforces.com/contest/1721/problem/C) | [1721C-greedy.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1721/1721C-greedy.py) |  |
 
 
 
