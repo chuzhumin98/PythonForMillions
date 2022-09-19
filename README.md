@@ -6,7 +6,7 @@ My own solutions and AC codes for coding problems on LeetCode, Codeforces, Luogu
 -  My Luogu profile: [https://www.luogu.com.cn/user/224692#practice](https://www.luogu.com.cn/user/224692#practice)
 -  My AtCoder profile: [https://atcoder.jp/users/chuzhumin98](https://atcoder.jp/users/chuzhumin98)
 
-### Problems according to algoritm
+### Problems according to algorithm
 The number of problems last updated on Sept. 18th, 2022
 
 Algorithm:
