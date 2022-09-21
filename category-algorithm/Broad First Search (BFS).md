@@ -19,6 +19,7 @@
 | [765. 情侣牵手](https://leetcode.cn/problems/couples-holding-hands/) | [765-bfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/765-bfs.py) |  |
 | [2258. 逃离火灾](https://leetcode.cn/problems/escape-the-spreading-fire/) | [2258-bfs+binarysearch.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/2258-bfs%2Bbinarysearch.py) |  |
 | [827. 最大人工岛](https://leetcode.cn/problems/making-a-large-island/) | [827-bfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/827-bfs.py) |  |
+| [854. 相似度为 K 的字符串](https://leetcode.cn/problems/k-similar-strings/) | [854-bfs.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/854-bfs.py) |  |
 
 
 
