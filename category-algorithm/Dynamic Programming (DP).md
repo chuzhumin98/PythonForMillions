@@ -35,6 +35,7 @@
 | [1987. 不同的好子序列数目](https://leetcode.cn/problems/number-of-unique-good-subsequences/) | [1987-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1987-dp.py) |  |
 | [6206. 最长递增子序列 II](https://leetcode.cn/problems/longest-increasing-subsequence-ii/) | [6206-segmenttree+dp.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/6206-segmenttree%2Bdp.cpp) |  |
 | [1223. 掷骰子模拟](https://leetcode.cn/problems/dice-roll-simulation/) | [1223-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1223-dp.py) |  |
+| [LCP 64. 二叉树灯饰](https://leetcode.cn/problems/U7WvvU/) | [LCP64-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/LCP64-dp.py) | Tree dp |
 
 ### Hard
 
