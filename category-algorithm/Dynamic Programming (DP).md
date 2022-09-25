@@ -44,3 +44,4 @@
 | [1714D-Color with Occurrences](https://codeforces.com/problemset/problem/1714/D) | [1714D-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1714/1714D-dp.py) |        |
 | [abc267G - Increasing K Times](https://atcoder.jp/contests/abc267/tasks/abc267_g) | [abc267G-dp.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/AtCoder/abc267/abc267G-dp.cpp) |  |
 | [730. 统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/) | [730-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/730-dp.py) | Range DP |
+| [LCP 65. 舒适的湿度](https://leetcode.cn/problems/3aqs1c/) | [LCP65-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/LCP65-dp.py) |  |
