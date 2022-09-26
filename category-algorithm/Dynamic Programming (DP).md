@@ -16,6 +16,7 @@
 | [1774. 最接近目标价格的甜点成本](https://leetcode.cn/problems/closest-dessert-cost/) | [1774-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/1774-dp.py) | Multi-Bag |
 | [6173. 被列覆盖的最多行数](https://leetcode.cn/problems/maximum-rows-covered-by-columns/) | [6173-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/LeetCode/6173-dp.py) | State Compression |
 | [abc267D - Index × A(Not Continuous ver.)](https://atcoder.jp/contests/abc267/tasks/abc267_d) | [abc267D-dp.py](https://github.com/chuzhumin98/PythonForMillions/blob/main/AtCoder/abc267/abc267D-dp.py) |  |
+| [1720D1. Xor-Subsequence (easy version)](https://codeforces.com/contest/1720/problem/D1) | [1720D1-dp.cpp](https://github.com/chuzhumin98/PythonForMillions/blob/main/Codeforces/1720/1720D1-dp.cpp) |  |
 
 
 ### Medium
