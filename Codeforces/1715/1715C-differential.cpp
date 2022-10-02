@@ -1,5 +1,5 @@
 /*
-Solution: math
+Solution: differential
 note that if a[i] = a[i+1] (index from 0 to n-1), then compared with a[i] != a[i+1], we need to decrease
 the sum of awesomeness with (i + 1) * (n - i - 1), where i + 1 is the left end select num, n - i - 1 is the
 right end select num;
